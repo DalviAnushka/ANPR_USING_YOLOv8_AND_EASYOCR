@@ -1,0 +1,7 @@
+train: C:\Users\Dalvi\anprpro1\yolov8env\code\train2\images
+val: C:\Users\Dalvi\anprpro1\yolov8env\code\valid2\images
+#test: C:\Users\Dalvi\anprpro1\yolov8env\code\test2\images
+
+nc: 1
+names: ['LicensePlate']
+
